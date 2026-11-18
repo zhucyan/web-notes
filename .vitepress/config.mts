@@ -3,6 +3,7 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   srcDir: "docs",
+  base: "/web-notes/",
 
   title: "web-notes",
   description: "A VitePress Site",
