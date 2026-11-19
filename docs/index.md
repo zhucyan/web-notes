@@ -4,12 +4,12 @@ layout: home
 
 hero:
   name: "web-notes"
-  text: "前端知识聚合"
-  tagline: My great project tagline
+  text: "前端知识沉淀"
+  tagline: 你只管前进、剩下的交给时间。
   actions:
     - theme: brand
       text: javascript基础
-      link: /markdown-examples
+      link: /javascript/01-var-let-const-and-data-types
     # - theme: alt
     #   text: API Examples
     #   link: /api-examples
@@ -24,7 +24,7 @@ features:
   - title: 组件设计
     details: 组件设计
   - title: webpack/vite 工程化
-    details: 供出啊
+    details: 工程化
   - title: 浏览器与性能优化
     details: 浏览器和性能优化
   - title: 微前端多应用架构
