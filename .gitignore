@@ -2,3 +2,8 @@
 
 /docs/superpowers
 node_modules
+dist
+# 忽略 VitePress 生成目录
+.vitepress/cache
+.vitepress/dist
+.vitepress/.temp
